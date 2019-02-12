@@ -6,5 +6,3 @@ def using_for
 	end
 	#your code here
 end
-
-
